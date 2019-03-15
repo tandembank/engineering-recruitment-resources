@@ -6,6 +6,14 @@ Message Board API
 
 Create a REST API web service that allows clients to post and retrieve messages from a message board. The messages can be stored in-memory rather than a datastore. The challenge involves supporting two scenarios which are outlined below:
 
+Instructions
+------------
+
+* Use .NET core or .NET framework
+* Use an in-memory datastore but consider abstracting this so a remote datastore could be introduced in future.
+* The solution should be unit tested
+* The solution should be runnable locally
+* Have fun, the exercise should hopefully only take a hour - we are not expecting a production complete solution. We'll discuss how this solution could be enhanced in the face to face interview :)
 
 Scenario 1 - POST message
 ---------------
@@ -83,4 +91,3 @@ Content-Length: 495
   ]
 }
 ```
-

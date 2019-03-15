@@ -12,7 +12,7 @@ In the face-to-face stage of the interview process we will work through a third 
 
 Make your solution available via github or bitbucket and add a README explaining the frameworks used and how to build and run the solution.
 
-No time limit is imposed, it is designed to be completable within an evening, but open-ended enough for you to showcase your skills beyond the basics if you desire.
+No time limit is imposed, the challenge is designed to be completable within an hour, but open-ended enough for you to showcase your skills beyond the basics if you desire.
 
 You may use any libraries/frameworks/bootstraps you like 
 
@@ -35,7 +35,7 @@ What we look for
 Aspects of your code we will assess include:
 
 * **Correctness**: does the solution fulfil the brief? If there is anything missing, does the README explain why it is missing?
-* **Code quality**: is the code simple, easy to understand, and maintainable? Are there any code smells or other red flags? Does object-oriented code follow principles such as the single responsibility principle? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
+* **Code quality**: is the code simple, easy to understand, and maintainable?
 * **Technical/architectural choices**: do choices of libraries, architecture, framework etc. seem appropriate?
 * **Security**: are there any obvious vulnerabilities?
 * **Testing**: how thorough are the test suites? Will they be difficult to change if the requirements of the application were to change? Are they brittle?

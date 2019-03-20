@@ -12,7 +12,7 @@ In the face-to-face stage of the interview process we will work through a third 
 
 Make your solution available via github or bitbucket and add a README explaining the frameworks used and how to build and run the solution.
 
-No time limit is imposed, the challenge is designed to be completable within an hour, but open-ended enough for you to showcase your skills beyond the basics if you desire.
+No time limit is imposed, the challenge is designed to be completable within 2 hours, but open-ended enough for you to showcase your skills beyond the basics if you desire.
 
 You may use any libraries/frameworks/bootstraps you like 
 

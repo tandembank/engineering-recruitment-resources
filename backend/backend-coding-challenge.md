@@ -13,7 +13,7 @@ Instructions
 * Use an in-memory datastore but consider abstracting this so a remote datastore could be introduced in future.
 * The solution should be unit tested
 * The solution should be runnable locally
-* Have fun, the exercise should hopefully only take a hour - we are not expecting a production complete solution. We'll discuss how this solution could be enhanced in the face to face interview :)
+* Have fun, the exercise should hopefully only take around 2 hours - we are not expecting a production complete solution. We'll discuss how this solution could be enhanced in the face to face interview :)
 
 Scenario 1 - POST message
 ---------------
